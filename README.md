@@ -5,15 +5,11 @@ Stack: Node.js, Express, MongoDB, Mongoose, React, Redux
 
 live : https://boiling-wildwood-10506.herokuapp.com/
 
-server packages:
+Server packages:
 
 stripe
 
 cookie-session
-
-express
-
-mongoose
 
 nodemon
 
@@ -32,7 +28,12 @@ path-parser@2.0.2
 
 
 
+Client packages used:
 
-Client packages:
+react-router-dom
+
+react-redux
+
+reduxForm
 
 react-stripe-checkout
