@@ -1,4 +1,4 @@
-# emaily
+# feedback Manager
 feedback management portal by sending Survey via Email
 
 Stack: Node.js, Express, MongoDB, Mongoose, React, Redux
